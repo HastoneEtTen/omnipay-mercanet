@@ -3,10 +3,6 @@ omnipay-mercanet
 
 **Mercanet driver for the Omnipay PHP payment processing library**
 
-[![Build Status](https://travis-ci.org/eileenmcnaughton/omnipay-mercanet.png?branch=master)](https://travis-ci.org/eileenmcnaughton/omnipay-mercanet)
-[![Latest Stable Version](https://poser.pugx.org/eileenmcnaughton/omnipay-mercanet/version.png)](https://packagist.org/eileenmcnaughton/omnipay-mercanet)
-[![Total Downloads](https://poser.pugx.org/fuzion/omnipay-mercanet/d/total.png)](https://packagist.org/fuzion/omnipay-mercanet)
-
 ## Basic Usage
 
 The following gateways are provided by this package:
@@ -15,26 +11,6 @@ The following gateways are provided by this package:
 
 For general usage instructions, please see the main [Omnipay](https://github.com/thephpleague/omnipay)
 repository.
-
-
-## Installation
-
-Omnipay is installed via [Composer](http://getcomposer.org/). To install, simply add it
-to your `composer.json` file:
-
-```json
-{
-    "require": {
-        "fuzion/omnipay-mercanet": "~3.0"
-    }
-}
-```
-
-And run composer to update your dependencies:
-
-    $ curl -s http://getcomposer.org/installer | php
-    $ php composer.phar update
-
 
 
 ## Support
@@ -52,6 +28,6 @@ or better yet, fork the library and submit a pull request.
 
 ## Troubleshooting
 
-An incorrect currency will return an error like: 
+An incorrect currency will return an error like:
 
 Technical problem  : code=03 message=None of the merchant's payment means is compliant with the transaction context
