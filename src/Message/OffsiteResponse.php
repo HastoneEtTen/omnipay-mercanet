@@ -91,7 +91,7 @@ class OffsiteResponse extends AbstractResponse implements RedirectResponseInterf
      */
     public function getRedirectMethod()
     {
-        return 'GET';
+        return 'POST';
     }
 
     public function getRedirectData()
