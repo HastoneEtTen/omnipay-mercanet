@@ -1,5 +1,5 @@
 {
-  "name": "fuzion/omnipay-mercanet",
+  "name": "hastoneetten/omnipay-mercanet",
   "type": "library",
   "description": "Mercanet support for Omnipay payment processing library",
   "keywords": [
@@ -12,12 +12,12 @@
     "purchase",
     "mercanet"
   ],
-  "homepage": "https://github.com/eileenmcnaughton/omnipay-mercanet",
+  "homepage": "https://github.com/HastoneEtTen/omnipay-mercanet",
   "license": "MIT",
   "authors": [
     {
-      "name": "Eileen McNaughton",
-      "email": "eileen@fuzion.co.nz"
+      "name": "Hastone et Ten",
+      "email": "web@hastone-et-ten.fr"
     }
   ],
   "autoload": {
